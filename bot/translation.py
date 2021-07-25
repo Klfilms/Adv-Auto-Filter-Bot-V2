@@ -5,7 +5,7 @@
 class Translation(object):
     
     START_TEXT = """<b>Hai {}!!</b>
-<i> ഞാൻ നിങ്ങളുടെ സ്വന്തം ജെറി.... official bot of @filmsnew169
+<i> i am your own friend .... official bot of @kl_films
 </i>"""    
     
     HELP_TEXT = """
