@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'KL_FILMS', url="https://t.me/kl_films"
+                                    'KL_FILMS', url="https://t.me/kl_film"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'KL_FILMS', url="https://t.me/kl_films"
+                                    'KL_FILMS', url="https://t.me/kl_film"
                                 )
                         ]
                     ]
@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'KL_FILMS', url="https://t.me/kl_films"
+                                    'KL_FILMS', url="https://t.me/kl_film"
                                 )
                         ]
                     ]
@@ -89,7 +89,7 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/kl_films'),
+        InlineKeyboardButton('Developers', url='https://t.me/kl_film'),
         
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
